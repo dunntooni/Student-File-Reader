@@ -1,0 +1,4 @@
+Matthew 95 16 No
+Mark 95 16 No
+Luke 90 15 No
+John 100 19 Yes
